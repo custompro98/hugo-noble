@@ -1,11 +1,19 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
-intro_image: "images/illustrations/reading.svg"
+title: "Services"
+description: "We offer a range of services to help your business"
+intro_image: "images/illustrations/intro.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Freshen up your property
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Looking for a local licensed and insured professional for your concrete needs?
+
+We are currently booking for our 2023 season.
+
+Noble Concrete and Construction specializes in traditional & exposed aggregate:
+
+Call for a free estimate: 248-930-1159
+
+Get in our books before they fill up!
