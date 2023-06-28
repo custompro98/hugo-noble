@@ -1,5 +1,0 @@
----
-title: Temporary
----
-
-![](/argo.png)
